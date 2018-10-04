@@ -26,4 +26,4 @@ Boyer Moore's searching algorithm is implemented in bm.py. It is a bit slower bu
 ## To Dos
 - [x] Implement Cosine-inverse Ranking system
 - [ ] Make code compatibl to capital letters
-- [ ] Make a GUI using Tkniter
+- [ ] Make a GUI using Tkniter.
